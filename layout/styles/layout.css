@@ -1414,7 +1414,6 @@ table a,
     }
     #mainav ul {
         display: none;
-        list-style-type: none;
     }
     #mainav form {
         display: block;
